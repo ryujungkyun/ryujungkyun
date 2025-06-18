@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&text=Hi,I'm_Ryu👋&animation=fadeIn&stroke=b678c4&strokeWidth=2/">
+  <img src="https://capsule-render.vercel.app/api?type=Venom&text=RYU_JK&animation=fadeIn&stroke=b678c4&strokeWidth=2/">
 </div>
 
 <div align="center">
