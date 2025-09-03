@@ -14,8 +14,8 @@
 
 ## 📫 Connect with Us
 <p align="center">
-  <a href="mailto:prank01@naver.com"><img src="https://img.shields.io/badge/Email-contact%40your--org.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/jungkyun-ryu-02b3a1304/"><img src="https://img.shields.io/badge/LinkedIn-Your%20Org-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:fwjdrbs@gmail.com"><img src="https://img.shields.io/badge/Email-contact%40fwjdrbs@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/jungkyun-ryu-02b3a1304/"><img src="https://img.shields.io/badge/JungKyun Ryu%20Org-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <p align="center">
