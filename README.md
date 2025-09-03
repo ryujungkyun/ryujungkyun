@@ -27,7 +27,6 @@
   <a href="https://www.linkedin.com/in/jungkyun-ryu-02b3a1304/"><img src="https://img.shields.io/badge/LinkedIn-Your%20Org-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
----
 
 <p align="center">
   <i>💡 “Code is like humor. When you have to explain it, it’s bad.”</i>
