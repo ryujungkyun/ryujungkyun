@@ -22,10 +22,11 @@
   <i>💡 “Build fast, break it, and build it better.”</i>
 </p>
 
+
+spring ai 컨트리뷰터
+
 ```
   오픈소스 기여모임 활동
-  김영한 스터디 활동
-  spring ai 컨트리뷰터
 
   자격증
   SQLD
