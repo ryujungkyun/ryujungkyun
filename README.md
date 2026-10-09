@@ -3,8 +3,7 @@
 
 <div align="center">
 
-```자바스프링 개발자```
-## 🛠 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mysql,git" />
 </p>
@@ -12,7 +11,7 @@
 
 
 
-## 📫 Connect with Us
+##  Connect
 <p align="center">
   <a href="mailto:fwjdrbs@gmail.com"><img src="https://img.shields.io/badge/Email-contact%40fwjdrbs@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/jungkyun-ryu-02b3a1304/"><img src="https://img.shields.io/badge/JungKyun Ryu%20Org-blue?style=for-the-badge&logo=linkedin"></a>
@@ -23,7 +22,11 @@
 </p>
 
 
-spring ai 컨트리뷰터
+
+spring ai 컨트리뷰터 - [Fix numeric filters in Cassandra vector store](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759)
+
+
+
 
 ```
   오픈소스 기여모임 활동
