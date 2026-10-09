@@ -25,7 +25,7 @@
 ```
   오픈소스 기여모임 활동
   김영한 스터디 활동
-  spring ai pr m3 릴리즈 후보
+  spring ai 컨트리뷰터
 
   자격증
   SQLD
