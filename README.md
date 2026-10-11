@@ -25,6 +25,7 @@
 
 spring ai 컨트리뷰터 - [Fix numeric filters in Cassandra vector store](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759)
 
+junit-framework 컨트리뷰터 - [Improve performance of post-discovery exclusion logging](https://github.com/junit-team/junit-framework/pull/6145)
 
 
 
