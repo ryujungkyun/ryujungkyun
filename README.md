@@ -19,7 +19,7 @@ Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니�
 | Project | Contribution | Links |
 |:---|:---|:---:|
 | **Spring Data JPA** | Fix AOT constructor generation for custom `QueryEnhancerSelector` | [PR #4381](https://github.com/spring-projects/spring-data-jpa/pull/4381) · [Commit](https://github.com/spring-projects/spring-data-jpa/commit/96b0c41) |
-| **Spring AI** | Fix numeric filters in Cassandra vector store | [Commit](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759) |
+| **Spring AI** | Fix numeric filters in Cassandra vector store | [PR #4381](https://github.com/spring-projects/spring-ai/pull/7117) · [Commit](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759) |
 | **JUnit Framework** | Improve performance of post-discovery exclusion logging | [PR #6145](https://github.com/junit-team/junit-framework/pull/6145) |
 
 ---
