@@ -1,43 +1,68 @@
 <div align="center">
+
+# JungKyun Ryu
+
+### Backend Developer | Java & Spring
+
+객체지향적인 설계와 데이터베이스 성능 최적화에 관심이 있는 백엔드 개발자입니다.
+
+<i>💡 "Build fast, break it, and build it better."</i>
+
 </div>
+
+---
+
+## 🌱 Open Source Contributions
+
+Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니다.
+
+| Project | Contribution | Links |
+|:---|:---|:---:|
+| **Spring Data JPA** | Fix AOT constructor generation for custom `QueryEnhancerSelector` | [PR #4381](https://github.com/spring-projects/spring-data-jpa/pull/4381) · [Commit](https://github.com/spring-projects/spring-data-jpa/commit/96b0c41) |
+| **Spring AI** | Fix numeric filters in Cassandra vector store | [Commit](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759) |
+| **JUnit Framework** | Improve performance of post-discovery exclusion logging | [PR #6145](https://github.com/junit-team/junit-framework/pull/6145) |
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-##  Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mysql,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mysql,git" />
+
 </div>
 
+---
 
+## 📚 Interests
 
-##  Connect
-<p align="center">
-  <a href="mailto:fwjdrbs@gmail.com"><img src="https://img.shields.io/badge/Email-contact%40fwjdrbs@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/jungkyun-ryu-02b3a1304/"><img src="https://img.shields.io/badge/JungKyun Ryu%20Org-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+- **Object-Oriented Design** — 객체의 책임과 역할을 고려한 설계
+- **Database Optimization** — 인덱스 설계, 실행 계획 분석 및 쿼리 최적화
+- **Software Architecture** — DDD, 헥사고날 아키텍처
+- **Open Source** — 오픈소스 코드 분석 및 기여
 
-<p align="center">
-  <i>💡 “Build fast, break it, and build it better.”</i>
-</p>
+---
 
+## 🏅 Certifications & Activities
 
+**Certifications**
+- SQLD
+- 정보처리기사
 
-spring ai 컨트리뷰터 - [Fix numeric filters in Cassandra vector store](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759)
+**Activities**
+- 오픈소스 기여 모임 활동
 
-junit-framework 컨트리뷰터 - [Improve performance of post-discovery exclusion logging](https://github.com/junit-team/junit-framework/pull/6145)
+---
 
+## 📫 Connect
 
+<div align="center">
 
-```
-  오픈소스 기여모임 활동
+<a href="mailto:fwjdrbs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jungkyun-ryu-02b3a1304/">
+  <img src="https://img.shields.io/badge/LinkedIn-JungKyun%20Ryu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  자격증
-  SQLD
-  정보처리기사
-
-  관심
-  객체지향적 사고
-  튼튼한 ERD 설계에 관심있습니다
-
-```
+</div>
