@@ -12,7 +12,7 @@
 
 ---
 
-## 🌱 Open Source Contributions
+## Open Source Contributions
 
 Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니다.
 
@@ -24,7 +24,7 @@ Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니�
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니�
 
 ---
 
-## 📚 Interests
+## Interests
 
 - **Object-Oriented Design** — 객체의 책임과 역할을 고려한 설계
 - **Database Optimization** — 인덱스 설계, 실행 계획 분석 및 쿼리 최적화
@@ -43,7 +43,7 @@ Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니�
 
 ---
 
-## 🏅 Certifications & Activities
+## Certifications & Activities
 
 **Certifications**
 - SQLD
@@ -54,7 +54,7 @@ Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니�
 
 ---
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
