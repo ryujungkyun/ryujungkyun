@@ -18,10 +18,10 @@ Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니�
 
 | Project | Contribution | Links |
 |:---|:---|:---:|
-| **Spring Data JPA** | Fix AOT constructor generation for custom `QueryEnhancerSelector` | [PR #4381](https://github.com/spring-projects/spring-data-jpa/pull/4381) · [Commit](https://github.com/spring-projects/spring-data-jpa/commit/96b0c41) |
-| **Spring AI** | Fix numeric filters in Cassandra vector store | [PR #7117](https://github.com/spring-projects/spring-ai/pull/7117) · [Commit](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759) |
-| **JUnit Framework** | Improve performance of post-discovery exclusion logging | [PR #6145](https://github.com/junit-team/junit-framework/pull/6145) · [Commit](https://github.com/junit-team/junit-framework/commit/021379b139c0661a6aff8d2a1c85e81e5cdc129e) |
 | **Spring Boot** | Fix restoration of empty system property values in `TestPropertyValues` | [PR #52125](https://github.com/spring-projects/spring-boot/pull/52125) · [Commit](https://github.com/spring-projects/spring-boot/commit/454cdeb) |
+| **Spring AI** | Fix numeric filters in Cassandra vector store | [PR #7117](https://github.com/spring-projects/spring-ai/pull/7117) · [Commit](https://github.com/spring-projects/spring-ai/commit/8a4f9e66caa22aebf5d16a30387aea266c14e759) |
+| **Spring Data JPA** | Fix AOT constructor generation for custom `QueryEnhancerSelector` | [PR #4381](https://github.com/spring-projects/spring-data-jpa/pull/4381) · [Commit](https://github.com/spring-projects/spring-data-jpa/commit/96b0c41) |
+| **JUnit Framework** | Improve performance of post-discovery exclusion logging | [PR #6145](https://github.com/junit-team/junit-framework/pull/6145) · [Commit](https://github.com/junit-team/junit-framework/commit/021379b139c0661a6aff8d2a1c85e81e5cdc129e) |
 ---
 
 ## Tech Stack
