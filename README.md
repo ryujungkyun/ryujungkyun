@@ -6,7 +6,7 @@
 
 객체지향적인 설계와 데이터베이스 성능 최적화에 관심이 있는 백엔드 개발자입니다.
 
-<i>💡 "Build fast, break it, and build it better."</i>
+<i> "Build fast, break it, and build it better."</i>
 
 </div>
 
