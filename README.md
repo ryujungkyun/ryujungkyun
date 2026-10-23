@@ -31,7 +31,7 @@ Java & Spring 생태계의 오픈소스 프로젝트에 기여하고 있습니�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,docker,mysql,git" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,aws,docker,githubactions,mysql,git" />
 
 </div>
 
